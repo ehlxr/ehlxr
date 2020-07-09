@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**ehlxr/ehlxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![][1]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<blockquote class='blockquote-center'>如果在乎的没有那么多，想要的没有那么，生活便会简单得很多
+简单 == 幸福
+</blockquote>
+
+### [About Me][2]
+
+屌丝码农。。。
+
+### Contact
+
+- Email: [xrv@live.com](mailto:xrv@live.com)
+- Blog: [https://ehlxr.me](https://ehlxr.me)
+- Telegram: [https://t.me/ehlxr](https://t.me/ehlxr)
+- Monstodon: [https://lrtg.tk/@lrtg](https://lrtg.tk/@lrtg)
+- Twitter: [https://twitter.com/ehlxr](https://twitter.com/ehlxr)
+
+
+
+[1]: https://cdn.jsdelivr.net/gh/0vo/oss/images/Cracking-the-code-of-tech.jpg
+[2]: https://about.me/ehlxr
