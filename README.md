@@ -13,10 +13,10 @@
 
 ### Contact
 
-- Email: [xrv@live.com](mailto:xrv@live.com)
-- Blog: [https://ehlxr.me](https://ehlxr.me)
+- 📧: [xrv@live.com](mailto:xrv@live.com)
+- 📚: [https://ehlxr.me](https://ehlxr.me)
 - Telegram: [https://t.me/ehlxr](https://t.me/ehlxr)
-- Monstodon: [https://lrtg.tk/@lrtg](https://lrtg.tk/@lrtg)
+- 🐘: [https://lrtg.tk/@lrtg](https://lrtg.tk/@lrtg)
 - Twitter: [https://twitter.com/ehlxr](https://twitter.com/ehlxr)
 
 
