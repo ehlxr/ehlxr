@@ -17,8 +17,6 @@
 - 📧: [xrv@live.com](mailto:xrv@live.com)
 - 📚: [https://ehlxr.me](https://ehlxr.me)
 - Telegram: [https://t.me/ehlxr](https://t.me/ehlxr)
-- 🐘: [https://lrtg.tk/@lrtg](https://lrtg.tk/@lrtg)
-- Twitter: [https://twitter.com/ehlxr](https://twitter.com/ehlxr)
 
 
 
