@@ -16,7 +16,6 @@
 
 - 📧: ZWhseHIubWVAZ21haWwuY29t
 - 📚: [https://ehlxr.me](https://ehlxr.me)
-- Telegram: [https://t.me/ehlxr](https://t.me/ehlxr)
 
 
 
